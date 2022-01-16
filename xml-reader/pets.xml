@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Pets>
+<Pet name="cucu" age="10">
+    <Type name="cat"></Type>
+</Pet>
+<Pet name="homero" age="11">
+    <Type name="dog"></Type>
+    <Owner name="Celestina la culera"></Owner>
+</Pet>
+<Pet name="coco" age="12">
+    <Type name="parrot"></Type>
+</Pet>
+<Pet name="flor" age="10">
+    <Type name="cat"></Type>
+</Pet>
+<Pet name="chata" age="7">
+    <Type name="cat"></Type>
+</Pet>
+</Pets>

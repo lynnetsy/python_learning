@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  python:
+    image: python:3.10-alpine
+    working_dir: /apps
+    command: tail -f /dev/null
+    volumes:
+      - ./:/apps
